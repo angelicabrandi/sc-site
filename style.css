@@ -27,6 +27,7 @@ body, html {
     transform: translate(-50%, -50%);
     color: white;
     font-size: 250%;
+
 }
 
 .hero-text h2 {
@@ -52,6 +53,7 @@ body, html {
 	font-size: 1.5em;
 	font-weight: bold;
 	line-height: 1.5;
+	
   }
 
 .textblock p {
@@ -59,6 +61,7 @@ body, html {
 	
 	font-size: 1em;
 	line-height: 1.2;
+	text-indent: 50px;
   }
   
 
